@@ -1,2 +1,2 @@
 # PigGame
-# 28.02.2019 - Implemented 'Hold' Function and DRY principle
+# 01.03.2019 - Created a Game Initialization Function
